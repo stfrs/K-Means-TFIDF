@@ -4,6 +4,7 @@
 
 The program performs an K-Means clustering of documents based on their tf-idf values.
 The output is a thematical clustering of the documents.
+If desired, the elbow graph will be computed and printed for a defined range of k. Read more on this within the script.
 
 For all parameters, default values are given. A dataset must be specified when calling the script (python3). If the data doesn't fit the format expected, the code must be adapted accordingly.
 
